@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AIHelper</string>
+    <string name="care">健\n康</string>
+    <string name="cancel">取\n消</string>
+    <string name="save">存\n檔</string>
+    <string name="add">新\n增</string>
+    <string name="find">尋\n找</string>
+
+    <!--Care.CareActivity-->
+    <string name="myDD">我的提醒</string>
+    <string name="addDD">新增提醒</string>
+    <string name="logDD">歷史記錄</string>
+    <string name="setDD">設定管理</string>
+
+    <!--Care.SetDDActivity-->
+    <string name="setDrug">藥品管理</string>
+    <string name="setMember">成員管理</string>
+    <string name="setTime">時間管理</string>
+    <string name="setOthers">其他設定</string>
+
+    <!--Care.AddDDActivity-->
+    <string name="cycle">設定周期(天次數)</string>
+    <string name="clock">設定時間(早中午晚)</string>
+    <string name="member">胖爹</string>
+    <string name="meal">飯後</string>
+
+    <string name="drug">保健藥品或療程</string>
+    <!--care_cycle.xml-->
+    <string name="beginD">8月8日</string>
+    <string name="once">一次</string>
+    <string name="nDay">幾天</string>
+    <string name="perD">每幾天</string>
+    <!--Care_time.xml-->
+    <string name="morning">早上08:30</string>
+    <string name="noon">中午12:30</string>
+    <string name="afternoon">下午06:30</string>
+    <string name="night">晚上09:30</string>
+    <string name="perHr">每幾小時</string>
+    <!--Care.MemberActivity-->
+
+
+</resources>
